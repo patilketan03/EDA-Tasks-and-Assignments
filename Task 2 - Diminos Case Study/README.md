@@ -1,28 +1,23 @@
-# EDA Tasks & Assignments
+# Task 2: Dominos Case Study
 
-## About
-This repository showcases my hands-on work in Exploratory Data Analysis (EDA) using Python.  
-It includes multiple assignments and programming tasks focused on data cleaning, analysis, and visualization.
+## Overview
+This case study analyzes Dominos business data using Exploratory Data Analysis (EDA) to extract meaningful business insights.
 
-Each folder contains:
-- A Jupyter Notebook (.ipynb) with complete analysis
-- A README.md explaining the task and approach
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-## Skills Demonstrated
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Analytical Thinking  
+## Work Done
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualization of business metrics
+- Insight generation
 
-## Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Jupyter Notebook  
-
-## Purpose
-Created for learning and internship purposes to demonstrate practical data analysis skills and a structured problem-solving approach.
+## Outcome
+Identified trends and patterns useful for business decision-making.
 
 ## Author
-**Ketan Patil**
+Ketan Patil
